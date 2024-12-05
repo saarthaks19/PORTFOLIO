@@ -1,0 +1,40 @@
+.skills{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin: auto;
+    height: 50vw;
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: center;
+
+    h1{
+        font-size:1.1vw ;
+        font-weight: 400;
+        color: rgb(46, 44, 44);
+    }
+    h2{
+        font-size: 4vw;
+    }
+    .main{
+        display: flex;
+        justify-content: center;
+        gap: 2vw;
+        width: 100%;
+        .card1,.card2,.card3{
+            width: 30%;
+            height: 25vw;
+            border: .05vw solid rgb(46, 44, 44);
+            border-radius: 1.5vw;
+            h1{
+               font-size: 1.6vw; 
+               font-weight: 600;
+               margin: 2vw auto;
+               color:  rgb(36, 35, 35);
+            }
+            
+
+        }
+    }
+        
+}

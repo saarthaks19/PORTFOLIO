@@ -1,0 +1,22 @@
+.field{
+    display: flex;
+    flex-direction: column;
+    border: .15vw rgb(66, 64, 64) solid;
+    width: 80%;
+    margin: auto;
+    border-radius:2vw ;
+    padding: .4vw;
+    gap: .3vw;
+    .title{
+        font-weight: 700;
+        font-size:1.5vw;
+        margin:auto;
+        margin-bottom: 1vw;
+    }
+}
+.super{
+    display: flex;
+    flex-direction: column;
+    height: 25vw;
+
+}

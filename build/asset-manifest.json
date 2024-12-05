@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/port/static/css/main.4e0e22d2.css",
+    "main.js": "/port/static/js/main.c977c8fd.js",
+    "static/js/453.ed3810f9.chunk.js": "/port/static/js/453.ed3810f9.chunk.js",
+    "static/media/TalkATiveProject2.png": "/port/static/media/TalkATiveProject2.a49be30173c734c9ccc0.png",
+    "static/media/project3.png": "/port/static/media/project3.ac29da39174483e63fe1.png",
+    "static/media/pp2.jpeg": "/port/static/media/pp2.e9873b0abe04b37149b7.jpeg",
+    "static/media/SortingVisProject1.png": "/port/static/media/SortingVisProject1.97199d2258daae289dbb.png",
+    "static/media/pp.jpeg": "/port/static/media/pp.0c33dfb008f52e6910b3.jpeg",
+    "static/media/check.png": "/port/static/media/check.bbcd0a9ec09b5bfce8d4.png",
+    "static/media/Gh.svg": "/port/static/media/Gh.fea95d6497b2a10feecc.svg",
+    "static/media/icons8-linkedin.svg": "/port/static/media/icons8-linkedin.f184c035973fb8b372890092b7d85323.svg",
+    "static/media/ld.svg": "/port/static/media/ld.1820b4b912b5799b93bf.svg",
+    "index.html": "/port/index.html",
+    "static/media/mail.svg": "/port/static/media/mail.48645b7e69240d016e2542c2d2afc93e.svg",
+    "main.4e0e22d2.css.map": "/port/static/css/main.4e0e22d2.css.map",
+    "main.c977c8fd.js.map": "/port/static/js/main.c977c8fd.js.map",
+    "453.ed3810f9.chunk.js.map": "/port/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e0e22d2.css",
+    "static/js/main.c977c8fd.js"
+  ]
+}

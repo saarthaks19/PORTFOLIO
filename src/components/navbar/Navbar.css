@@ -1,0 +1,48 @@
+.navbar{
+    display: flex;
+    width : 35%;
+    font-size: 1.6vw;
+    font-weight: 400;
+    justify-content: space-between;
+    a{
+        text-decoration: none;
+        .item1,.item2,.item3,.item4
+    {
+        color: black;
+        text-shadow: none;
+    }
+    }
+    .item1:hover{
+        color:rgb(61, 99, 99);
+       text-decoration: underline;
+       text-underline-offset: 1vw; /* Adjust the value as needed */
+       text-decoration-color: gray;
+       text-shadow: 0 0.2vw 0.3vw rgba(0, 0, 0, 0.3); /* Subtle shadow on hover */
+    transform: translateY(-0.1vw); /* Slightly move the text up on hover */
+    }
+    .item2:hover{
+        color:rgb(61, 99, 99);
+        text-decoration: underline;
+        text-underline-offset: 1vw; /* Adjust the value as needed */
+        text-decoration-color: gray;
+        text-shadow: 0 0.2vw 0.3vw rgba(0, 0, 0, 0.3); /* Subtle shadow on hover */
+    transform: translateY(-0.1vw); /* Slightly move the text up on hover */
+    }
+    .item3:hover{
+        color:rgb(61, 99, 99);
+        text-decoration: underline;
+        text-underline-offset: 1vw; /* Adjust the value as needed */
+        text-decoration-color: gray;
+        text-shadow: 0 0.2vw 0.3vw rgba(0, 0, 0, 0.3); /* Subtle shadow on hover */
+    transform: translateY(-0.1vw); /* Slightly move the text up on hover */
+    }
+    .item4:hover{
+        color:rgb(61, 99, 99);
+        text-decoration: underline;
+        text-underline-offset: 1vw; /* Adjust the value as needed */
+        text-decoration-color: gray;
+        text-shadow: 0 0.2vw 0.3vw rgba(0, 0, 0, 0.3); /* Subtle shadow on hover */
+    transform: translateY(-0.1vw); /* Slightly move the text up on hover */
+    }
+
+}

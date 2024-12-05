@@ -1,0 +1,35 @@
+
+.wrapper{
+    background-color: white;
+    margin: 2vw auto;
+    gap:2vw;
+    height:50vw;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    .texts{
+        display: flex;
+        flex-direction:column;
+        align-items:center;
+        justify-content:center;
+    }
+
+    h2{
+        font-size: 1.3vw;
+        color: grey;
+        font-weight: 400;
+    }
+    h1{
+        font-size: 3.5vw;
+    }
+    .Cards{
+        display: flex;
+        align-items: center;
+        gap: 2vw;
+        justify-content: center;
+    }
+
+}
+

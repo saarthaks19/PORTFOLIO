@@ -1,0 +1,82 @@
+*{
+    margin:0;
+}
+.about{
+    display: flex;
+    width: 90%;
+    margin: 9vw auto;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column ;
+    height: 45vw;
+    h1{
+      
+        font-size: 1.5vw;
+        font-weight: 400vw;
+    }
+    h2{
+        font-size: 4vw;
+        margin: 0;
+
+    }
+    p{
+        width: 50vw;
+        margin: 1vw auto;
+        text-align: center;
+        padding: 1vw;
+        font-size: 1.1vw;
+        color: rgb(87, 83, 83);
+    }
+    .main{
+        display: flex;
+        height: 25vw;
+        justify-content: space-evenly;
+        align-items: center;
+        margin-top: 3vw;
+        gap: 2vw;
+        .image{
+            height: 24vw;
+            width: 24vw;
+            background-image: url('../../assets/pp2.jpeg');
+            background-size: cover;
+            background-position: center;
+            border-radius: 2vw;
+        }
+        .education{
+            height: 24vw;
+            width: 40vw;
+            border-radius: 2vw;
+            border: .05vw solid black;
+            background-color: rgb(255, 255, 255);
+            display: flex;
+            flex-direction: column;
+            h1{
+                margin-top: 1vw;
+                text-align: center;
+                font-weight: 500vw;
+                font-size: 2.5vw;
+            }
+            .educations{
+                height: 20vw;
+                padding: 1.5vw;
+                display: flex;
+                gap: .5vw;
+                flex-direction: column;
+                text-align: left;
+                h2{
+                    font-size: 1vw;
+                    color: grey;
+                  
+                }
+                h3{
+                    font-size: 1vw;
+                    
+                }
+            }
+        }
+       
+        
+
+
+    }
+}

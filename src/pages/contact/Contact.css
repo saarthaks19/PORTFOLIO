@@ -1,0 +1,69 @@
+
+
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    width:100vw;
+    height:80vw;
+    margin-bottom: 2vw;
+    background-color: aquamarine;
+    
+}
+
+.ContactBox{
+    width: 80%;
+   
+    gap:1vw;
+    height:40vw;
+    background-color: rgb(255, 255, 255);
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    .ContactButton{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border: .1vw solid grey;
+        gap: 1vw;
+        height: 5vw;
+        border-radius: 2vw;
+        width:25vw;
+        padding:0 1vw;
+        .email{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: .5vw;
+            .circle{
+            height:2vw;
+            width:2vw;
+            border-radius:50%;
+            }
+            p{
+                font-size: 1.1vw;
+                transition:all 100ms ease-in;
+            }
+            p:hover {
+                cursor: pointer;
+                color: gray;
+                text-decoration: underline;
+                text-underline-offset: 1vw; /* Adjust the value as needed */
+                text-decoration-color: gray; /* Change the underline color to gray */
+            }   
+        }
+        
+    }
+    h1{
+        font-size: 1.1vw;
+        margin:0 ;
+        color: rgb(0, 0, 0);
+    }
+    h2{
+        font-size: 3vw;
+        margin:0 ;
+    }
+
+
+}
+

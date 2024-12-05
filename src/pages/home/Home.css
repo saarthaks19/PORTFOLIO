@@ -1,0 +1,100 @@
+.home{
+    width:80%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+  
+    height: 47vw;
+
+    .hnavbar{
+        display: flex;
+        width: 90%;
+        margin: 3vw auto;
+        justify-content: space-between;
+        align-items: center;
+       .text{
+        font-size: 2vw;
+        font-weight: 500;
+        }
+    }
+    .main{
+        height: 40vw;
+        width: 80%;
+        margin: 3vw auto;
+        display: flex;
+        justify-content: center;
+        gap: 1vw;
+        align-items: center;
+
+        .image{
+            height: 28vw;
+            width:28vw;
+            background-image: url('../../assets/pp.jpeg');
+            background-size: cover;
+            background-position: center;
+            border-radius: 50%;
+        }
+        .fields{
+            height: 20vw;
+            width:28vw;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-around;
+            align-items: center;
+            h1{
+                font-size: 1.2vw ;
+                color: rgb(87, 83, 83);
+                margin: 0;
+            }
+            h2{
+                font-size: 3.5vw ;
+                font-weight:700 ;
+                margin: 0;
+
+
+            }
+            h3{
+                font-size: 1.6vw ;
+                font-weight: 600;
+                margin: 0;
+                color: rgb(87, 83, 83);
+
+            }
+            .buttongrp{
+                display: flex;
+                gap:1vw;
+            }
+            .socials{
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                gap: 1vw;
+                .ld,.gh{
+                    height: 2.5vw;
+                    width: 2.5vw;
+                    border-radius: 0%;
+                    background-color: rgb(255, 255, 255);
+                    transition: all 100ms ease-in-out;
+                }
+                .ld{
+                    background-image: url('../../assets/ld.svg');
+                    background-repeat: no-repeat;
+                    background-size: contain;
+                    background-position: center;
+                }
+                .gh{
+                    background-image: url('../../assets/Gh.svg');
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    background-position: center;
+                }
+                .ld:hover,.gh:hover{
+                    cursor: pointer;
+                    transform: translateY(-.2vw);
+                }
+            }
+            
+
+        }
+    }
+}
