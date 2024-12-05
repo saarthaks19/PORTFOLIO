@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.d29b4086.css",
+    "main.js": "/Portfolio/static/js/main.b1b0f22d.js",
+    "static/js/453.ed3810f9.chunk.js": "/Portfolio/static/js/453.ed3810f9.chunk.js",
+    "static/media/TalkATiveProject2.png": "/Portfolio/static/media/TalkATiveProject2.a49be30173c734c9ccc0.png",
+    "static/media/project3.png": "/Portfolio/static/media/project3.ac29da39174483e63fe1.png",
+    "static/media/pp2.jpeg": "/Portfolio/static/media/pp2.e9873b0abe04b37149b7.jpeg",
+    "static/media/SortingVisProject1.png": "/Portfolio/static/media/SortingVisProject1.97199d2258daae289dbb.png",
+    "static/media/pp.jpeg": "/Portfolio/static/media/pp.0c33dfb008f52e6910b3.jpeg",
+    "static/media/check.png": "/Portfolio/static/media/check.bbcd0a9ec09b5bfce8d4.png",
+    "static/media/Gh.svg": "/Portfolio/static/media/Gh.fea95d6497b2a10feecc.svg",
+    "static/media/icons8-linkedin.svg": "/Portfolio/static/media/icons8-linkedin.f184c035973fb8b372890092b7d85323.svg",
+    "static/media/ld.svg": "/Portfolio/static/media/ld.1820b4b912b5799b93bf.svg",
+    "index.html": "/Portfolio/index.html",
+    "static/media/mail.svg": "/Portfolio/static/media/mail.48645b7e69240d016e2542c2d2afc93e.svg",
+    "main.d29b4086.css.map": "/Portfolio/static/css/main.d29b4086.css.map",
+    "main.b1b0f22d.js.map": "/Portfolio/static/js/main.b1b0f22d.js.map",
+    "453.ed3810f9.chunk.js.map": "/Portfolio/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d29b4086.css",
+    "static/js/main.b1b0f22d.js"
+  ]
+}
